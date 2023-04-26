@@ -4,6 +4,9 @@
 
 * Currently in progress. Code refactoring may be needed in future.
 
+## Weekly reports in pdf (detailed description and analysis of currently done work on diploma project)
+https://drive.google.com/drive/folders/1MrlhbnC_oL3GhDZCVVtj2EC44md3uTJx?usp=sharing
+
 ## EDA charts
 
 ![image](https://user-images.githubusercontent.com/43760986/234585577-47483c24-8bfe-4e76-bcda-c5638b84906d.png)
